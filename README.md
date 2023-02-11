@@ -4,9 +4,9 @@ Repository created to store games created to learn, game creation is important t
 
 ## 🚀 Nav Game
 
-This game was to a bootcamp on DIO(Digital Inovation One), this is a simple game, made with JS, HTML and CSS. Basically the game works like a simple ship game, where the player controls a helicopter whose objective is to save his allies and prevent the enemies from destroying him
+This game was to a bootcamp on DIO(Digital Inovation One), this is a simple game, made with JS, HTML and CSS. Basically the game works like a simple ship game, where the player controls a helicopter whose objective is to save his allies and prevent the enemies from destroying him.
 
-    🛠️Bulit With
+🛠️ **Bulit With**
 
 * [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) - Markup Language
 * [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) - Style Sheet Language
@@ -16,7 +16,7 @@ This game was to a bootcamp on DIO(Digital Inovation One), this is a simple game
 
 In each grid the player places his ships and registers the opponent's shots. Before the start of the game, each player places their ships on the boards, aligned horizontally or vertically. The number of allowed ships is the same for both players and the ships cannot overlap.
 
-    🛠️Bulit With
+🛠️  **Bulit With**
 
 * [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) - Markup Language
 * [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) - Style Sheet Language
